@@ -1,0 +1,104 @@
+.image{
+    background-image: url("image.png");
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    height: 500px;
+    /* padding: 200px; */
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.aa{
+    background-color: whitesmoke;
+    color: gray;
+    padding: 5px;
+    display:flexbox;
+    /* border: 5px silver solid; */
+}
+span:hover{
+    background-color: blue;
+}
+.containeer{
+    width:90%;
+    /* padding-left: 200px; */
+    /* padding-bottom: 0px; */
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+
+}
+.today{
+    display: flex;
+    text-align: center
+}
+.cancel{
+    display: flex;
+  text-align: center;
+}
+.footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height: 40px;
+    padding: 2px;
+}
+input[type="button"]{
+    border-radius: 70px;
+    background-color: whitesmoke;
+    /* padding: 4px 4px 4px 4px; */
+    margin-top: 4px;
+    margin-bottom: 4px;
+   
+}
+
+.one{
+    background-color: green;
+    color: whitesmoke;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.two{
+    background-color: blue;
+    color: whitesmoke;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+.three{
+    background-color: black;
+    color: whitesmoke;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    
+}
+.one1{
+    background-color: rgb(210, 211, 112);
+    color: gray;
+}
+.two2{
+    background-color: rgb(210, 211, 112);
+    color: gray;
+}
+.three3{
+    background-color: rgb(210, 211, 112);
+    color: gray;
+}
+.border3,.border1,.border2{
+    width: 25%;
+    border: 1px silver solid;
+        margin: auto;
+}
+
+.line{
+    margin: 0px;
+    border-bottom: 1px rgb(59, 59, 115) solid;
+    padding: 5px; 
+}
+.alaa{
+    color: rgb(166, 34, 34);
+}
+
